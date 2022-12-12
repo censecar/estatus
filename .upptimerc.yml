@@ -1,31 +1,91 @@
 # Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: censecar # Your GitHub organization or username, where this repository lives
+repo: estatus # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Pagina Principal (Web)
+    url: https://www.censecar.com.mx
+    maxResponseTime: 5000
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+  - name: SIMA (MANIFIESTOS)
+    url: http://200.12.125.74
+    maxResponseTime: 5000
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+  - name: SAAIT (FIANZAS)
+    url: http://200.12.125.73/Login
+    maxResponseTime: 5000
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+  - name: SAAIT v2.0 (FIANZAS)
+    url: http://200.12.125.76/Login
+    maxResponseTime: 5000
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+  - name: Manifiestos (NUEVO)
+    url: https://manifiestos.censecar.com.mx
+    maxResponseTime: 5000
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+  - name: Contrato Digital (CARTA PORTE)
+    url: https://contratodigital.online
+    maxResponseTime: 5000
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+  - name: API CenSeCar
+    url: $API_CSC_URL
+    maxResponseTime: 5000
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+  - name: API CMS
+    url: $API_CMS_URL
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 404
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+  - name: Webhook CenSeCar
+    url: $WEBHOOK_CSC_URL
+    maxResponseTime: 5000
+    icon: https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico
+
+assigness:
+  - hklabl13
+  - censecar
 
 status-website:
-  # Add your custom domain name, or remove the `cname` line if you don't have a domain
-  # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
-  navbar:
-    - title: Status
-      href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
+  theme: light
+  favicon: https://www.censecar.com.mx/facturacion/app-assets/images/ico/favicon.ico
+  baseUrl: /censecar
+  logoUrl: https://www.censecar.com.mx/img/logos/csc/Censecar%20HORIZONTAL.png
+  name: CenSeCar
+  introTitle: "En este sitio podrá verificar el estatus de nuestros sistemas, en caso de caída o cualquier otra incidencia"
+  introMessage: Valida en tiempo real la disponibilidad de los servicios CenSeCar
+i18n:
+  activeIncidents: Incidentes activos
+  allSystemsOperational: Todos los sistemas están operativos
+  incidentReport: Incidente $NUMBER reporte →
+  activeIncidentSummary: Abierto el $DATE con $POSTS posts
+  incidentTitle: Incidente $NUMBER detalle
+  incidentDetails: Detalles del incidente
+  incidentFixed: Resuelto
+  incidentOngoing: En curso
+  incidentOpenedAt: Abierto el
+  incidentClosedAt: Cerrado el
+  incidentCommentSummary: Publicado el $DATE por $AUTHOR
+  incidentBack: ← Volver a todos los incidentes
+  pastIncidents: Incidentes Pasados
+  pastIncidentsResolved: Resuelto en $MINUTES minutos con $POSTS posts
+  liveStatus: Estatus en Tiempo Real
+  overallUptime: "Tiempo de Actividad General: $UPTIME"
+  overallUptimeTitle: Tiempo de Actividad General
+  averageResponseTime: "Tiempo de respuesta promedio: $TIMEms"
+  averageResponseTimeTitle: Respuesta promedio
+  sevelDayResponseTime: Tiempo de respuesta en los últimos 7 días
+  responseTimeMs: Tiempo de respuesta (ms)
+  up: En línea
+  down: Caído
+  degraded: Degradado
+  loading: Cargando
+  pastScheduledMaintenance: Mantenimientos Pasados
+  scheduledMaintenance: Mantenimientos Programados
+  incidentCompleted: Completado
+  incidentScheduled: Programado
+  startsAt: Empieza el
+  startedAt: Empezó a las
+  duration: Duración
+  durationMin: $DURATION minutos
 
-# Upptime also supports notifications, assigning issues, and more
-# See https://upptime.js.org/docs/configuration
