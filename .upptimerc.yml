@@ -49,7 +49,7 @@ assigness:
 status-website:
   theme: light
   favicon: https://www.censecar.com.mx/facturacion/app-assets/images/ico/favicon.ico
-  baseUrl: /censecar
+  baseUrl: /estatus
   logoUrl: https://www.censecar.com.mx/img/logos/csc/Censecar%20HORIZONTAL.png
   name: CenSeCar
   introTitle: "En este sitio podrá verificar el estatus de nuestros sistemas, en caso de caída o cualquier otra incidencia"
