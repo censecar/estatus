@@ -78,19 +78,19 @@
     "url": "https://manifiestos.censecar.com.mx",
     "icon": "https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico",
     "slug": "manifiestos-nuevo",
-    "status": "down",
-    "uptime": "99.72%",
-    "uptimeDay": "97.30%",
-    "uptimeWeek": "99.61%",
-    "uptimeMonth": "99.72%",
-    "uptimeYear": "99.72%",
-    "time": 363,
-    "timeDay": 353,
-    "timeWeek": 359,
-    "timeMonth": 363,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "99.56%",
+    "uptimeDay": "95.79%",
+    "uptimeWeek": "99.40%",
+    "uptimeMonth": "99.56%",
+    "uptimeYear": "99.56%",
+    "time": 365,
+    "timeDay": 364,
+    "timeWeek": 361,
+    "timeMonth": 365,
+    "timeYear": 365,
     "dailyMinutesDown": {
-      "2022-12-22": 39
+      "2022-12-22": 61
     }
   },
   {
