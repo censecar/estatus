@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.93%",
     "uptimeYear": "99.93%",
-    "time": 1082,
-    "timeDay": 866,
-    "timeWeek": 983,
-    "timeMonth": 1082,
-    "timeYear": 1082,
+    "time": 1075,
+    "timeDay": 821,
+    "timeWeek": 964,
+    "timeMonth": 1075,
+    "timeYear": 1075,
     "dailyMinutesDown": {
       "2022-12-15": 21
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 575,
-    "timeDay": 406,
-    "timeWeek": 501,
-    "timeMonth": 575,
-    "timeYear": 575,
+    "time": 578,
+    "timeDay": 530,
+    "timeWeek": 518,
+    "timeMonth": 578,
+    "timeYear": 578,
     "dailyMinutesDown": {}
   },
   {
@@ -43,13 +43,13 @@
     "icon": "https://www.censecar.com.mx/apiv2/assets/images/ico/favicon.ico",
     "slug": "saait-fianzas",
     "status": "up",
-    "uptime": "96.38%",
-    "uptimeDay": "20.58%",
+    "uptime": "96.43%",
+    "uptimeDay": "31.34%",
     "uptimeWeek": "88.65%",
-    "uptimeMonth": "96.38%",
-    "uptimeYear": "96.38%",
+    "uptimeMonth": "96.43%",
+    "uptimeYear": "96.43%",
     "time": 254,
-    "timeDay": 155,
+    "timeDay": 174,
     "timeWeek": 239,
     "timeMonth": 254,
     "timeYear": 254,
@@ -69,11 +69,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 159,
-    "timeDay": 175,
-    "timeWeek": 149,
-    "timeMonth": 159,
-    "timeYear": 159,
+    "time": 158,
+    "timeDay": 151,
+    "timeWeek": 146,
+    "timeMonth": 158,
+    "timeYear": 158,
     "dailyMinutesDown": {}
   },
   {
@@ -87,11 +87,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.81%",
     "uptimeYear": "99.81%",
-    "time": 374,
+    "time": 373,
     "timeDay": 396,
-    "timeWeek": 386,
-    "timeMonth": 374,
-    "timeYear": 374,
+    "timeWeek": 388,
+    "timeMonth": 373,
+    "timeYear": 373,
     "dailyMinutesDown": {
       "2022-12-22": 61
     }
@@ -107,11 +107,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 861,
-    "timeDay": 881,
-    "timeWeek": 868,
-    "timeMonth": 861,
-    "timeYear": 861,
+    "time": 859,
+    "timeDay": 830,
+    "timeWeek": 844,
+    "timeMonth": 859,
+    "timeYear": 859,
     "dailyMinutesDown": {}
   },
   {
@@ -125,11 +125,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
-    "time": 485,
-    "timeDay": 557,
-    "timeWeek": 481,
-    "timeMonth": 485,
-    "timeYear": 485,
+    "time": 483,
+    "timeDay": 544,
+    "timeWeek": 476,
+    "timeMonth": 483,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2022-12-12": 143
     }
@@ -145,11 +145,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
-    "time": 530,
-    "timeDay": 432,
-    "timeWeek": 438,
-    "timeMonth": 530,
-    "timeYear": 530,
+    "time": 529,
+    "timeDay": 421,
+    "timeWeek": 437,
+    "timeMonth": 529,
+    "timeYear": 529,
     "dailyMinutesDown": {
       "2022-12-12": 143
     }
@@ -165,11 +165,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.55%",
     "uptimeYear": "99.55%",
-    "time": 470,
-    "timeDay": 761,
+    "time": 469,
+    "timeDay": 784,
     "timeWeek": 447,
-    "timeMonth": 470,
-    "timeYear": 470,
+    "timeMonth": 469,
+    "timeYear": 469,
     "dailyMinutesDown": {
       "2022-12-12": 143
     }
