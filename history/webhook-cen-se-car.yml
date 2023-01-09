@@ -1,7 +1,7 @@
 url: $WEBHOOK_CSC_URL
 status: up
 code: 200
-responseTime: 343
-lastUpdated: 2023-01-08T18:26:59.675Z
+responseTime: 465
+lastUpdated: 2023-01-09T01:48:20.378Z
 startTime: Mon Dec 12 2022 20:22:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
